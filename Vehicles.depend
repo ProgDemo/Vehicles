@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1524066680 source:e:\elte\prog_demo\vehicles\main.cpp
+	<iostream>
+	<vector>
+	"Vehicle.h"
+	"Car.h"
+	"Tram.h"
+	<windows.h>
+
+1524066090 e:\elte\prog_demo\vehicles\vehicle.h
+
+1524066731 e:\elte\prog_demo\vehicles\car.h
+	<sstream>
+
+1524066750 e:\elte\prog_demo\vehicles\tram.h
+	<sstream>
+
